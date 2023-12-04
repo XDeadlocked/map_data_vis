@@ -1,4 +1,4 @@
-运行如下的指令：
+activate given instructions
 
 ````bash
 npm init
